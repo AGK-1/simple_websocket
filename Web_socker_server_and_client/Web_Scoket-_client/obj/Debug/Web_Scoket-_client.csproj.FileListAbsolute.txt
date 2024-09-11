@@ -1,0 +1,11 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\bin\Debug\Web_Scoket-_client.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\bin\Debug\Web_Scoket-_client.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\bin\Debug\Web_Scoket-_client.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\bin\Debug\websocket-sharp.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\obj\Debug\Web_Scoket-_client.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\obj\Debug\Web_Scoket-_client.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\obj\Debug\Web_Scok.84A20795.Up2Date
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\obj\Debug\Web_Scoket-_client.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_Scoket-_client\obj\Debug\Web_Scoket-_client.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_socker_server", "Web_socker_server\Web_socker_server.csproj", "{A39964F8-5BF1-4AA6-A1BC-542CC9E435C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Scoket-_client", "Web_Scoket-_client\Web_Scoket-_client.csproj", "{7A4A369F-BB3E-4974-A8F2-1D969A191D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39964F8-5BF1-4AA6-A1BC-542CC9E435C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39964F8-5BF1-4AA6-A1BC-542CC9E435C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39964F8-5BF1-4AA6-A1BC-542CC9E435C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39964F8-5BF1-4AA6-A1BC-542CC9E435C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4A369F-BB3E-4974-A8F2-1D969A191D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4A369F-BB3E-4974-A8F2-1D969A191D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4A369F-BB3E-4974-A8F2-1D969A191D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4A369F-BB3E-4974-A8F2-1D969A191D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {706870D9-D4C6-4523-BC70-6F3202D18874}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_socker_server\bin\Debug\Web_socker_server.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_socker_server\bin\Debug\Web_socker_server.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_socker_server\bin\Debug\Web_socker_server.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_socker_server\bin\Debug\websocket-sharp.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_socker_server\obj\Debug\Web_socker_server.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_socker_server\obj\Debug\Web_socker_server.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_socker_server\obj\Debug\Web_sock.FF308E9B.Up2Date
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_socker_server\obj\Debug\Web_socker_server.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Web_socker_server\Web_socker_server\obj\Debug\Web_socker_server.pdb
